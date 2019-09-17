@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.hethongthi"
+    },
+    "jhipsterVersion": "6.3.0",
+    "applicationType": "gateway",
+    "baseName": "hethongthi",
+    "packageName": "com.hethongthi",
+    "packageFolder": "com/hethongthi",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWQxNzExOWM4YWJkNmQ2YTcxZjgwZWFlZDgyZmYyY2VhNDhjZDNkZjE2NGZjOGVhZWE1NmNjMGNhOWViODkxOTYwMGEyZjAxZmI5ZmFjODRmOTZiOGY5ZDYxNjA0NmU0OGM5M2RmMTk5NmRhNjE2MTZjMTAxZGZjYWM0ODNiYWI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
